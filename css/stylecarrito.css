@@ -36,18 +36,12 @@ html {
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
+  background-img: url('.../https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg');
+  background-position: fixed;
+  background-size: cover;
   align-items: center;
   justify-content: center;
 }
-
-.hero .img {
-  size: cover;
-  position: center;
-  repeat: no-repeat;
-  position: center center;
-}
-
-
 
 /*#hero1 h1{
   color:rgb(232, 9, 232);
