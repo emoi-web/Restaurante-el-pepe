@@ -17,7 +17,7 @@ html {
 }
 
 .btn-success {
-  background-color: ##F8BF63 !important; /* naranja claro */
+  background-color: #F8BF63 !important; /* naranja claro */
   border-color: #440000 !important;
   color: #fff !important;
 }
@@ -36,7 +36,7 @@ html {
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
-  background-image: url('https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg'); /* tu imagen de hero */
+  
   background-size: cover; /* hace que la imagen cubra todo el contenedor */
   background-position: center; /* centra la imagen */
   background-repeat: no-repeat; /* evita repetición */
