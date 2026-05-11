@@ -17,7 +17,7 @@ html {
 }
 
 .btn-success {
-  background-color: #090909 !important; /* color deseado */
+  background-color: ##F8BF63 !important; /* naranja claro */
   border-color: #440000 !important;
   color: #fff !important;
 }
@@ -30,13 +30,14 @@ html {
 
  .navbar-brand  img{
   border-radius: 50%; /* Hace la imagen circular */
+  background-image: url('../https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/logo.jpeg')
 }
 
 /* HERO con imagen de fondo */
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
-  background-image: url('../IMG/logo.JPG'); /* tu imagen de hero */
+  background-image: url('../https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg'); /* tu imagen de hero */
   background-size: cover; /* hace que la imagen cubra todo el contenedor */
   background-position: center center; /* centra la imagen */
   background-repeat: no-repeat; /* evita repetición */
