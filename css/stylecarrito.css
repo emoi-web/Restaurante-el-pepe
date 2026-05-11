@@ -64,6 +64,13 @@ html {
   z-index: 2; /* asegura que el texto esté por encima del overlay */
 }
 
+.hero .container img {
+  size: cover;
+  position: center;
+  repeat: no-repeat;
+  img-position: center center;
+}
+
 /* Compensación si hay navbar fijo */
 #productos {
   scroll-margin-top: 70px;
