@@ -83,7 +83,7 @@ html {
     height: 200px;
     object-fit: cover;
     display: flex;
-    width: 200px;
+    width: 100%;
 }
 
 #productos .card-body {
