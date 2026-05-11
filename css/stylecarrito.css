@@ -65,9 +65,9 @@ html {
 }
 
 .hero .container img {
-  size: cover;
-  position: center;
-  repeat: no-repeat;
+  img-size: cover;
+  img-position: center;
+  img-repeat: no-repeat;
   img-position: center center;
 }
 
