@@ -38,9 +38,8 @@ html {
   height: 50vh; /* ajusta altura del hero */
   background-image: url('../https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg'); /* tu imagen de hero */
   background-size: cover; /* hace que la imagen cubra todo el contenedor */
-  background-position: center center; /* centra la imagen */
+  background-position: center; /* centra la imagen */
   background-repeat: no-repeat; /* evita repetición */
-  display: flex;
   align-items: center;
   justify-content: center;
 }
