@@ -39,11 +39,11 @@ html {
 }
 
   /* HERO image */
-  .hero img {
-  img-size: cover; /* hace que la imagen cubra todo el contenedor */
-  img-position: center; /* centra la imagen */
-  img-repeat: no-repeat; /* evita repetición */
-  align-items: center;
+  .hero-img {
+  hero-img-size: cover; /* hace que la imagen cubra todo el contenedor */
+  hero-img-position: center; /* centra la imagen */
+  hero-img-repeat: no-repeat; /* evita repetición */
+  hero-img-align-items: center;
   justify-content: center;
 }
 
