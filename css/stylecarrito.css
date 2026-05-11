@@ -30,7 +30,6 @@ html {
 
  .navbar-brand  img{
   border-radius: 50%; /* Hace la imagen circular */
-  background-image: url('https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/logo.jpeg');
 }
 
 /* HERO con imagen de fondo */
@@ -44,7 +43,6 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgb(255, 255, 255);
 }
 
 
