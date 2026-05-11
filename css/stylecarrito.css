@@ -36,13 +36,11 @@ html {
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
-  background-size: cover; /* hace que la imagen cubra todo el contenedor */
-  background-position: center; /* centra la imagen */
-  background-repeat: no-repeat; /* evita repetición */
   align-items: center;
   justify-content: center;
 }
-.hero img {
+
+.hero .img {
   img-size: cover;
   img-position: center;
   img-repeat: no-repeat;
