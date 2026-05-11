@@ -41,10 +41,10 @@ html {
 }
 
 .hero .img {
-  img-size: cover;
-  img-position: center;
-  img-repeat: no-repeat;
-  img-position: center center;
+  size: cover;
+  position: center;
+  repeat: no-repeat;
+  position: center center;
 }
 
 
