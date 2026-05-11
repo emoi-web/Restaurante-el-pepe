@@ -78,7 +78,7 @@ html {
 
 /* Tamaño uniforme para todas las cards de productos */
 #productos .card {
-    height: 100%;
+    height: 150px;
     display: flex;
     flex-direction: column;
 }
