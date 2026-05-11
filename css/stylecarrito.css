@@ -5,7 +5,7 @@ html {
 }
 /* Animaciones de agregado/eliminado */
 .agregado {
-  background-color: ##180501 !important; /* negro */
+  background-color: #180501 !important; /* negro */
   color: #d4edda !important;
   animation: fade 1s ease-in-out;
 }
@@ -30,7 +30,7 @@ html {
 
  .navbar-brand  img{
   border-radius: 50%; /* Hace la imagen circular */
-  background-image: url('../https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/logo.jpeg')
+  background-image: url('https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/logo.jpeg');
 }
 
 /* HERO con imagen de fondo */
