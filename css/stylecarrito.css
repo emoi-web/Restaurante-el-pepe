@@ -43,6 +43,12 @@ html {
   align-items: center;
   justify-content: center;
 }
+.hero img {
+  img-size: cover;
+  img-position: center;
+  img-repeat: no-repeat;
+  img-position: center center;
+}
 
 
 
