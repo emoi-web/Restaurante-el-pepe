@@ -39,7 +39,7 @@ html {
 }
 
   /* HERO image */
-  .hero-img {
+  .hero .img {
   size: cover; /* hace que la imagen cubra todo el contenedor */
   position: center; /* centra la imagen */
   repeat: no-repeat; /* evita repetición */
