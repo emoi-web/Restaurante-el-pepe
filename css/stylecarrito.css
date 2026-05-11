@@ -37,7 +37,7 @@ html {
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
-  background-img: url('https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg');
+  background-img: url('../https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg');
   background-position: fixed;
   background-size: cover;
   align-items: center;
