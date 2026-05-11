@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 /* HERO */
 .hero {
   position: relative;
-  height: 50vh; /* ajusta altura del hero */
+  height: 70vh; /* ajusta altura del hero */
   background-image: url('https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg');
   background-size: cover;
   align-items: center;
@@ -129,4 +129,5 @@ h1, h2, h3, h4, h5, h6 {
     max-height: 400px; /* Altura máxima del carrito */
     overflow-y: auto; /* Habilita el scroll vertical */
     background-color: #F8BF63 !important;
+    justify-content: center;
 } 
