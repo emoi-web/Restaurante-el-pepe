@@ -36,13 +36,10 @@ html {
 .hero {
   position: relative;
   height: 50vh; /* ajusta altura del hero */
-}
-
-  /* HERO image */
-  .hero img {
-  img-size: cover; /* hace que la imagen cubra todo el contenedor */
-  img-position: center; /* centra la imagen */
-  img-repeat: no-repeat; /* evita repetición */
+  background-image: url('https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg'); 
+  background-size: cover; /* hace que la imagen cubra todo el contenedor */
+  background-position: center; /* centra la imagen */
+  background-repeat: no-repeat; /* evita repetición */
   align-items: center;
   justify-content: center;
 }
