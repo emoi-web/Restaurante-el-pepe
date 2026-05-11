@@ -2,7 +2,7 @@
 /* Scroll suave */
 html {
   scroll-behavior: smooth;
-  background-color: rgb(54,54,54);
+  background-color: rgb(54,54,54) !important;
 }
 
 /* Animaciones de agregado/eliminado */
