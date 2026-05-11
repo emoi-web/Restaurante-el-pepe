@@ -40,10 +40,10 @@ html {
 
   /* HERO image */
   .hero-img {
-  hero-img-size: cover; /* hace que la imagen cubra todo el contenedor */
-  hero-img-position: center; /* centra la imagen */
-  hero-img-repeat: no-repeat; /* evita repetición */
-  hero-img-align-items: center;
+  size: cover; /* hace que la imagen cubra todo el contenedor */
+  position: center; /* centra la imagen */
+  repeat: no-repeat; /* evita repetición */
+  align-items: center;
   justify-content: center;
 }
 
