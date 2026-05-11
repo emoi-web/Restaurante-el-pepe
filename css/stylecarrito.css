@@ -49,6 +49,9 @@ h1, h2, h3, h4, h5, h6 {
   height: 70vh; /* ajusta altura del hero */
   background-image: url('https://tiendacloud01emi.blob.core.windows.net/imagenesemiliano/hero.jpg');
   background-size: cover;
+  background-position: center center;
+  position: relative;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
