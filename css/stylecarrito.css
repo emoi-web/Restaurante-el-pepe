@@ -2,7 +2,15 @@
 /* Scroll suave */
 html {
   scroll-behavior: smooth;
+}
+
+body {
   background-color: #545454 !important; /* gris oscuro */
+}
+
+/* Tipografía de todos los títulos */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Arial Black", Arial, sans-serif !important;
 }
 
 /* Animaciones de agregado/eliminado */
