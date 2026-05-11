@@ -2,8 +2,9 @@
 /* Scroll suave */
 html {
   scroll-behavior: smooth;
-  background-color: #575757;
+  background-color: rgb(54,54,54);
 }
+
 /* Animaciones de agregado/eliminado */
 .agregado {
   background-color: #C0E17A !important; /* verde claro */
@@ -41,7 +42,7 @@ html {
   background-size: cover;
   align-items: center;
   justify-content: center;
-  display: flex;
+  position: fixed;
 }
 
 /*#hero1 h1{
