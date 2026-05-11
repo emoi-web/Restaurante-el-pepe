@@ -52,9 +52,9 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
 }
 
-/*#hero1 h1{
-  color:rgb(232, 9, 232);
-}*/
+.h1{
+  color: #FFB045
+}
 
 .hero::before {
   content: '';
