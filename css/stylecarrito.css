@@ -6,6 +6,7 @@ html {
 
 body {
   background-color: #545454 !important; /* gris oscuro */
+  font-family: Verdana, sans-serif !important;
 }
 
 /* Tipografía de todos los títulos */
@@ -52,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
 }
 
-.h1{
+.h1 .text-center {
   color: #FFB045 !important;
 }
 
